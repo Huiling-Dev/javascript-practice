@@ -1,4 +1,4 @@
-# JavaScript Course Practice
+vil# JavaScript Course Practice
 
 Practice projects from Jonas Schmedtmann's JavaScript course.
 Built with vanilla HTML, CSS, and JavaScript.
